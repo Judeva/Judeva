@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Judeva (Joanna Doudeva)
-- 👀 I’m interested in JavasScript and Graphic design
-- 🌱 I’m currently learning Javascript 
+- 👀 I’m interested in Integrations development 
 - 📫 You can reach me on joanna.doudeva@gmail.com
 
 <!---
